@@ -2,11 +2,12 @@
 
 namespace GitLearning
 {
-    public class HelloGit
+    internal class HelloGit
     {
-        public void SayHello()
+        static void Main()
         {
-            Console.WriteLine("Hello from Git!");
+            Console.WriteLine("Hello GitHub!");
+            Console.WriteLine("I am learning Git branches.");
         }
     }
 }
