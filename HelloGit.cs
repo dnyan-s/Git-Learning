@@ -6,8 +6,7 @@ namespace GitLearning
     {
         static void Main()
         {
-            Console.WriteLine("Hello from Main Branch!");
-            Console.WriteLine("I am learning Git branches.");
+            Console.WriteLine("Hello from Main Branch and Conflict Test!");
         }
     }
 }
